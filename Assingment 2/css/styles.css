@@ -1,0 +1,10 @@
+body {
+    font-size: 16;
+    
+}
+.centered {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
