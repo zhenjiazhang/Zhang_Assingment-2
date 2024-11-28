@@ -21,3 +21,9 @@ figcaption{line-height: 1.1em;
     font-size: .8em;
     color: gray;
 }
+/* Centered Image Code */
+img {
+    display: block;
+    width: 75%;
+    margin: auto;
+}
