@@ -23,7 +23,8 @@ figcaption{line-height: 1.1em;
 }
 /* Centered Image Code */
 img {
+    padding-top: 20px;
     display: block;
-    width: 85%;
+    max-width: 750px;
     margin: auto;
 }
